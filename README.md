@@ -1,3 +1,3 @@
 # Trabalho Flutter
 
-App com Mobx e consumo de API
+App que mostra varias raças de cães com Mobx e consumo de API
